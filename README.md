@@ -1,6 +1,6 @@
 # Medica-APP
-
-
+ - Medical App (<a href="https://play.google.com/store/apps/details?id=com.locii.medical&pli=1)">Android</a>) 
+ 
 <img alt="Coder GIF" height=600 width=250 src="https://github.com/AmrElwkeel/Medica-APP/blob/main/Screenshot_2022-12-08-11-52-37-06.png" />
 <br>
 
